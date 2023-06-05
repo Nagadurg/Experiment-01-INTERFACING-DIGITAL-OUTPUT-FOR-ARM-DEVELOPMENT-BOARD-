@@ -174,7 +174,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+
+## led on:
+
 ![image](https://user-images.githubusercontent.com/94185707/227894619-e5c3bc6b-48fc-4868-a0f2-32872ca138ec.png)
+
+## led off:
+
 ![output](https://github.com/Nagadurg/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/2.jpg)
 
 
